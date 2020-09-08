@@ -23,6 +23,6 @@ Resources:
           sudo chmod -R 777 /var/www/html
           cd /var/www/html
           wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/index.html
-          wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/index.jpg
-          wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/index.jpg
-          wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/index.jpg
+          wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/cat0.jpg
+          wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/cat1.jpg
+          wget https://raw.githubusercontent.com/omerbayrak11/clarusway_aws_devops_workshop/master/aws/projects/101-kittens-carousel-static-website-ec2/static-web/cat2.jpg
